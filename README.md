@@ -38,6 +38,8 @@ Another way is to open is through START icon of MATLAB Start ⇒ Simulink ⇒ Li
 ## Observation Table
 <img width="636" height="295" alt="image" src="https://github.com/user-attachments/assets/d16394c9-1df2-4ad8-b85c-92dfaa51aeee" />
 
+## Output graph
+
 
 ## Simulated Output waveform
 
